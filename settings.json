@@ -1,0 +1,29 @@
+{
+  "defaultWidth": 1300,
+  "defaultHeight": 800,
+  "defaultFontSize": 0.1,
+
+  "cutSceneSpeed": 2500,
+  "textBoxSpeed": 20000,
+
+  "sideListSize": 0.4,
+  "headerSize": 0.05,
+  "headerSpacingFactor": 4,
+  "textBoxSize": 0.15,
+  "directionButtonSize": 0.05,
+
+  "wallHeight": 0.1,
+  "doorWidth": 0.3,
+
+  "defaultHP": 20,
+  "defaultAttack": 5,
+
+  "renderDistance": 2,
+
+  "trollSpawnChance": 0.3,
+  "trollMovementChance": 0.25,
+  "trollAttackChance": 0.5,
+
+  "itemSpawnChance": 0.3
+
+}
