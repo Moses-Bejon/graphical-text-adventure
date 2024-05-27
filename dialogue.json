@@ -1,0 +1,17 @@
+{
+  "defaultIntro": [
+    "",
+    "{player.getName()}?",
+    "Sure...",
+    "If that's what you want to call yourself",
+    "",
+    "This should all be fairly straightforward",
+    "Click the thing you want to do",
+    "Then click the direction you want to go",
+    "And press enter to skip cutscenes",
+    "You'll get the hang of it",
+    "But... Just...",
+    "Try to be predictable",
+    "Try to do things I'd think you'd do"
+  ]
+}
